@@ -32,7 +32,7 @@ python-ldap==2.4.15
 python-linux-procfs==0.4.9
 pyudev==0.15
 pyxattr==0.5.1
-PyYAML==3.10
+PyYAML==5.1
 s3cmd==2.0.2
 s3transfer==0.1.13
 schedutils==0.4
