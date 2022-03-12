@@ -17,7 +17,7 @@ kitchen==1.1.1
 lxml==3.2.1
 Magic-file-extensions==0.2
 perf==0.1
-Pillow==2.0.0
+Pillow==9.0.1
 ply==3.4
 policycoreutils-default-encoding==0.1
 pyasn1==0.1.9
